@@ -1,7 +1,7 @@
-# Digimarc Illuminate&trade; Serialization REST API
+# Illuminate&trade; Serialization REST API
 
 The illuminate-serialization-api repository contains information and examples 
-for using the Digimarc Illuminate&trade; Serialization REST API to create serial data carriers 
+for using the Illuminate&trade; Serialization REST API to create serial data carriers 
 on the Illuminate Platform for product or product variant digital twins.
 
 > Serials for promotional assets aren't supported.
